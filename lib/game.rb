@@ -114,8 +114,7 @@ class Game
             end
           end
         
-        def turn
-                              
+        def turn          
             9.times do 
             system 'clear'
             puts @board.display_board
@@ -143,7 +142,7 @@ class Game
           puts "(y/n) tapez 'y' pour yes / tapez 'n' pour no"
           answer = gets.chomp.downcase
           puts "\n"
-            if answer == "oui"
+            if answer == "y"
              return true
                 
             elsif answer == "n"

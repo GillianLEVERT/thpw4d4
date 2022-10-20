@@ -4,15 +4,14 @@ class Board
    attr_accessor :board
  
    def initialize
-     
+    
      @board = []
    
      9.times do |i|
      @board << Board_case.new("case#{i+1}").value
-     end
-
-     
+     end     
    end
+
 
    def  play_turn(player)
     puts "#{player.name} ! Quel est trop prochain moove ? Impressione nous ! "

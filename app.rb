@@ -12,6 +12,7 @@ def perfom
     game = Game.new
     game.turn
     while  game.again?
+        game.board=Board.new
         game.turn
     end
     game.result
