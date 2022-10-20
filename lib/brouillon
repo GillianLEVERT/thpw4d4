@@ -1,0 +1,21 @@
+#    puts " "* 11 + "█" * 21        
+=begin@player_X = Player.new(gets.chomp.red, "X".red)
+print " > "
+puts  "Welcome joueur 1 ! ton pseudo est donc bien #~{[~{#}]}~Erreur dans la{{#[MATRICE]^$^ù)
+PETIT KIKI ? 
+plutôt étrange mais nous validons votre demande."
+puts  "votre couleur de référence sera le ROUGE et votre symbole sera le X."
+print " > "
+#@player_O = Player.new(gets.chomp.blue, "O".blue)
+puts "Welcome joueur 2 ! ton pseudo est donc bien #~{[~{#}]}~Erreur dans la{{#[DYLAN ALED, YANN {#VEUT{&é3} MON C**]^$^ù)
+BlackNight18_ASV_PLZ ? 
+tu as 12ans j'imagine... mais nous validons votre demande."
+puts "votre couleur de référence sera le BLEU comme ton cartable et votre symbole sera le O comme ta note en math.."
+puts " "
+puts " A MA GAUCHE, EN ROUGE, NOUS AVONS DONC PETIT KIKI, PRET AU COMBAT !"
+puts " "
+puts " A MA DROITE, AVEC SON CARTABLE BLEU, NOUS AVONS DONC BlackNight18_ASV_PLZ, PRET A PARIER SON GOUTER QU'IL VA GAGNER"
+puts " "* 11 + " {... CLIC ERREUR 404 == TEXT FONT SIZE 24 #[|@@8&'-'@ #COLORDARKBLUEDRACULAXYZ.CSS.HTML - VIVE BOOTSTRAP]" 
+puts " "* 21 + "LETS BEGIN !" 
+puts " "
+#
